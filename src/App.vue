@@ -97,7 +97,7 @@ export default {
           >
             <v-icon v-if="getSortorder === ''">mdi-sort</v-icon>
             <v-icon v-else-if="getSortorder === 'asc'">mdi-sort-ascending</v-icon>
-            <v-icon v-else="getSortorder==='mdi-sort-descending'">mdi-sort-descending</v-icon>
+            <v-icon v-else>mdi-sort-descending</v-icon>
           </v-btn>
         </th>
         

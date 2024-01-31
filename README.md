@@ -1,6 +1,6 @@
 # Vue Table
 
-[Demo LInk] (https://hardcodworker.github.io/vueTable/)
+[Demo LInk](https://hardcodworker.github.io/vueTable/)
 
 ## Recommended IDE Setup
 
